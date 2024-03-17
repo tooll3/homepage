@@ -101,6 +101,13 @@ a {
     font-weight: 400;
 }
 
+a.download {
+    background-color: #FF3A9E;
+    color: white;
+    font-weight: 600;
+    padding: 3px;
+}
+
 a.link {
     color: black;
     /* font-weight: 400; */
